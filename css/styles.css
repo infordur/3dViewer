@@ -1,0 +1,11 @@
+.viewer img{
+	width: 500px;
+}
+
+.delante {
+	display: block;
+}
+
+.point {
+	font-size: 1.75rem;
+}
