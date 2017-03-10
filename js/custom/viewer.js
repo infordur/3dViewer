@@ -4,7 +4,7 @@ $(document).ready(function() {
     $('[data-toggle="popover"]').popover();
 
     $('#image').reel({
-        images:      '/3D viewer/demo/img/drone/#####.png|1..36|1',
+        images:      './img/drone/#####.png|1..36|1',
         cw:          true,
         frame:       32,
         steppable: false,
